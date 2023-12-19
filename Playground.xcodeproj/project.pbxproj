@@ -22,6 +22,8 @@
 		B9621BD82B22431B00302EDD /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9621BC82B22431B00302EDD /* Response.swift */; };
 		B9621BD92B22431B00302EDD /* Earnings.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9621BC92B22431B00302EDD /* Earnings.swift */; };
 		B9621BDA2B22431B00302EDD /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9621BCA2B22431B00302EDD /* SceneDelegate.swift */; };
+		B991751E2B314DA50009FF8C /* BarViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = B991751D2B314DA50009FF8C /* BarViewController2.swift */; };
+		B99175202B314DB20009FF8C /* BarViewController3.swift in Sources */ = {isa = PBXBuildFile; fileRef = B991751F2B314DB20009FF8C /* BarViewController3.swift */; };
 		B997D2302B241E42005F3381 /* EarningsDataPoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = B997D22F2B241E42005F3381 /* EarningsDataPoint.swift */; };
 		B9A404952B22E6040008A874 /* Charts.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B9A404942B22E6030008A874 /* Charts.framework */; };
 		B9F18BEF2B23C3DC002493BE /* BarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9F18BEE2B23C3DC002493BE /* BarViewController.swift */; };
@@ -47,6 +49,8 @@
 		B9621BC92B22431B00302EDD /* Earnings.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Earnings.swift; sourceTree = "<group>"; };
 		B9621BCA2B22431B00302EDD /* SceneDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SceneDelegate.swift; path = "../../college-scorecard/college-scorecard/SceneDelegate.swift"; sourceTree = "<group>"; };
 		B9621BCB2B22431B00302EDD /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = "../../college-scorecard/college-scorecard/Info.plist"; sourceTree = "<group>"; };
+		B991751D2B314DA50009FF8C /* BarViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarViewController2.swift; sourceTree = "<group>"; };
+		B991751F2B314DB20009FF8C /* BarViewController3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BarViewController3.swift; sourceTree = "<group>"; };
 		B9934D862B22349100D0672C /* Playground.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Playground.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B9934D972B22349300D0672C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		B997D22F2B241E42005F3381 /* EarningsDataPoint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = EarningsDataPoint.swift; sourceTree = "<group>"; };
@@ -112,6 +116,8 @@
 				B9621BC22B22431B00302EDD /* DetailViewController.swift */,
 				B9F18BEE2B23C3DC002493BE /* BarViewController.swift */,
 				B997D22F2B241E42005F3381 /* EarningsDataPoint.swift */,
+				B991751D2B314DA50009FF8C /* BarViewController2.swift */,
+				B991751F2B314DB20009FF8C /* BarViewController3.swift */,
 				B9621BC32B22431B00302EDD /* Assets.xcassets */,
 			);
 			name = Views;
@@ -297,6 +303,8 @@
 				B9621BD82B22431B00302EDD /* Response.swift in Sources */,
 				B9621BD72B22431B00302EDD /* Schools.swift in Sources */,
 				B997D2302B241E42005F3381 /* EarningsDataPoint.swift in Sources */,
+				B991751E2B314DA50009FF8C /* BarViewController2.swift in Sources */,
+				B99175202B314DB20009FF8C /* BarViewController3.swift in Sources */,
 				B9621BD32B22431B00302EDD /* DetailViewController.swift in Sources */,
 				B9621BD12B22431B00302EDD /* ViewController.swift in Sources */,
 				B9621BCF2B22431B00302EDD /* Constants.swift in Sources */,
